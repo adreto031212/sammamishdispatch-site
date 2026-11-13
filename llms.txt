@@ -1,0 +1,56 @@
+# Sammamish Dispatch
+
+> The Sammamish Dispatch is a free weekly email newsletter about Sammamish, WA, sent Thursdays at 6 AM Pacific and published by Neighborhood Press LLC. It covers city council decisions, land-use and permit notices, road and transit changes, school district news, openings and closings, with one section per neighborhood. Every item links its public source. It is researched and written with AI tools, and an editor reads every issue before it goes out.
+
+## Key pages
+- [This week in Sammamish](https://www.sammamishdispatch.com/this-week/): the dated items for the current week, updated every Thursday
+- [Sammamish news](https://www.sammamishdispatch.com/news/): every story, newest first
+- [Reader asked](https://www.sammamishdispatch.com/asked/): readers' questions answered from the public record
+- [Standards](https://www.sammamishdispatch.com/standards/): publisher, sources, sponsors, corrections
+- [Subscribe](https://www.sammamishdispatch.com/): free, one email a week
+
+## Neighborhoods
+- [Beaver Lake](https://www.sammamishdispatch.com/beaver-lake/): The plateau's east side around Beaver Lake Park and the Beaver Lake Preserve trails, out toward Soaring Eagle Park.
+- [East Lake Sammamish](https://www.sammamishdispatch.com/east-lake-sammamish/): The shoreline below the plateau along East Lake Sammamish Parkway, with Sammamish Landing and the East Lake Sammamish Trail.
+- [Inglewood](https://www.sammamishdispatch.com/inglewood/): The northwest plateau along NE Inglewood Hill Road and 228th Avenue NE, with the Inglewood shops and views west over Lake Sammamish.
+- [Klahanie](https://www.sammamishdispatch.com/klahanie/): The southeast plateau around Klahanie Park, Klahanie Village and Issaquah-Fall City Road, part of the city since 2016.
+- [Pine Lake](https://www.sammamishdispatch.com/pine-lake/): The middle of the plateau: Pine Lake Park's dock and lawn, Pine Lake Village and 228th Avenue SE.
+- [Sahalee](https://www.sammamishdispatch.com/sahalee/): The north end of the plateau along Sahalee Way NE, climbing from the Redmond line through the evergreens.
+- [Town Center](https://www.sammamishdispatch.com/town-center/): Sammamish Commons, City Hall, the library and the community and aquatic center along 228th Avenue and SE 4th Street, with the Town Center plan taking shape.
+- [Trossachs](https://www.sammamishdispatch.com/trossachs/): The southeast corner off SE Duthie Hill Road and Trossachs Boulevard, next to Duthie Hill Park's trails.
+
+## Latest
+- [Five public hearings are on the council's Tuesday, November 17 meeting, which starts at 6:30 PM](https://www.sammamishdispatch.com/news/2026-11-12-five-public-hearings-are-on-the-council-s-tuesday-november-17-meeting/) (2026-11-12)
+- [The school fee hearing adopts three districts' plans, not just two](https://www.sammamishdispatch.com/news/2026-11-12-the-school-fee-hearing-adopts-three-districts-plans-not-just-two/) (2026-11-12)
+- [Volunteers plant a pollinator meadow at Evans Creek Preserve on Saturday, November 14, 11 AM to 2 PM](https://www.sammamishdispatch.com/news/2026-11-12-volunteers-plant-a-pollinator-meadow-at-evans-creek-preserve-on-saturd/) (2026-11-12)
+- [where the generator goes](https://www.sammamishdispatch.com/news/2026-11-12-where-the-generator-goes/) (2026-11-12)
+- [Why the power there goes out first and comes back last, and two more readers asked the same about parts of Sammamish](https://www.sammamishdispatch.com/asked/2026-11-12-why-the-power-there-goes-out-first-and-comes-back-last-and-two-more-re/) (2026-11-12)
+- [The council's budget and levy hearings run to November 17](https://www.sammamishdispatch.com/news/2026-11-05-the-council-s-budget-and-levy-hearings-run-to-november-17/) (2026-11-05)
+- [The Six-Year capital plan hearing is also November 17](https://www.sammamishdispatch.com/news/2026-11-05-the-six-year-capital-plan-hearing-is-also-november-17/) (2026-11-05)
+- [A November 17 hearing is set on file POL2025-00572, tied to Building 120](https://www.sammamishdispatch.com/news/2026-11-05-a-november-17-hearing-is-set-on-file-pol2025-00572-tied-to-building-12/) (2026-11-05)
+- [Stormwater pipe cameras are inspecting lines through Friday, November 6](https://www.sammamishdispatch.com/news/2026-11-05-stormwater-pipe-cameras-are-inspecting-lines-through-friday-november-6/) (2026-11-05)
+- [a freeze plan before the cold](https://www.sammamishdispatch.com/news/2026-11-05-a-freeze-plan-before-the-cold/) (2026-11-05)
+- [When Ziply fiber will be connected in the streets there, about a year and a half after the conduit went in, as the reader describes it](https://www.sammamishdispatch.com/asked/2026-11-05-when-ziply-fiber-will-be-connected-in-the-streets-there-about-a-year-a/) (2026-11-05)
+- [Second-half property taxes are due Monday, November 2](https://www.sammamishdispatch.com/news/2026-10-29-second-half-property-taxes-are-due-monday-november-2/) (2026-10-29)
+- [Ballots for the November 3 general election are due by 8 PM Tuesday](https://www.sammamishdispatch.com/news/2026-10-29-ballots-for-the-november-3-general-election-are-due-by-8-pm-tuesday/) (2026-10-29)
+- [The budget's first public hearing is Wednesday, November 4](https://www.sammamishdispatch.com/news/2026-10-29-the-budget-s-first-public-hearing-is-wednesday-november-4/) (2026-10-29)
+- [Three lane-closure jobs end this week](https://www.sammamishdispatch.com/news/2026-10-29-three-lane-closure-jobs-end-this-week/) (2026-10-29)
+- [Issaquah elementary students have no school November 4 and 5](https://www.sammamishdispatch.com/news/2026-10-29-issaquah-elementary-students-have-no-school-november-4-and-5/) (2026-10-29)
+- [clocks back, alarms tested](https://www.sammamishdispatch.com/news/2026-10-29-clocks-back-alarms-tested/) (2026-10-29)
+- [The proposed 2027–28 budget spends $220.3 million against $204.0 million in revenue](https://www.sammamishdispatch.com/news/2026-10-22-the-proposed-2027-28-budget-spends-220-3-million-against-204-0-million/) (2026-10-22)
+- [Council goes through the budget department by department October 27 and 28](https://www.sammamishdispatch.com/news/2026-10-22-council-goes-through-the-budget-department-by-department-october-27-an/) (2026-10-22)
+- [Building 120 goes to a council hearing November 17](https://www.sammamishdispatch.com/news/2026-10-22-building-120-goes-to-a-council-hearing-november-17/) (2026-10-22)
+- [SE 32nd Street gets a new sidewalk and bike lane](https://www.sammamishdispatch.com/news/2026-10-22-se-32nd-street-gets-a-new-sidewalk-and-bike-lane/) (2026-10-22)
+- [The October 31 recycling list is out](https://www.sammamishdispatch.com/news/2026-10-22-the-october-31-recycling-list-is-out/) (2026-10-22)
+- [who handles what when a storm hits](https://www.sammamishdispatch.com/news/2026-10-22-who-handles-what-when-a-storm-hits/) (2026-10-22)
+- [Building 120 reaches the council Tuesday, after tonight's Planning Commission hearing](https://www.sammamishdispatch.com/news/2026-10-15-building-120-reaches-the-council-tuesday-after-tonight-s-planning-comm/) (2026-10-15)
+- [New homes in the Lake Washington district would pay $8,810.25 in school impact fees from January 1, down from $10,914.75](https://www.sammamishdispatch.com/news/2026-10-15-new-homes-in-the-lake-washington-district-would-pay-8-810-25-in-school/) (2026-10-15)
+- [A 9.27-acre rezone off SE 1st Street goes to the hearing examiner Friday, October 23](https://www.sammamishdispatch.com/news/2026-10-15-a-9-27-acre-rezone-off-se-1st-street-goes-to-the-hearing-examiner-frid/) (2026-10-15)
+- [The fall recycling and shredding event is Saturday, October 31, 9 AM to 3 PM, at Eastside Catholic School, 232 228th Ave SE](https://www.sammamishdispatch.com/news/2026-10-15-the-fall-recycling-and-shredding-event-is-saturday-october-31-9-am-to/) (2026-10-15)
+- [leaves belong in the cart, not the drain](https://www.sammamishdispatch.com/news/2026-10-15-leaves-belong-in-the-cart-not-the-drain/) (2026-10-15)
+- [Tree crews take one lane of 228th Avenue, 9:30 AM to 3:30 PM, from today through October 30](https://www.sammamishdispatch.com/news/2026-10-12-tree-crews-take-one-lane-of-228th-avenue-9-30-am-to-3-30-pm-from-today/) (2026-10-12)
+- [Building 120 gets a land-use hearing Thursday](https://www.sammamishdispatch.com/news/2026-10-12-building-120-gets-a-land-use-hearing-thursday/) (2026-10-12)
+- [The 2027–28 budget arrives October 20](https://www.sammamishdispatch.com/news/2026-10-12-the-2027-28-budget-arrives-october-20/) (2026-10-12)
+- [No school Friday in Lake Washington schools; Issaquah schools are in session](https://www.sammamishdispatch.com/news/2026-10-12-no-school-friday-in-lake-washington-schools-issaquah-schools-are-in-se/) (2026-10-12)
+- [Weekend work on East Lake Sammamish Parkway, every Saturday and Sunday through October 31](https://www.sammamishdispatch.com/news/2026-10-12-weekend-work-on-east-lake-sammamish-parkway-every-saturday-and-sunday/) (2026-10-12)
+- [November 2, not October 31](https://www.sammamishdispatch.com/news/2026-10-12-november-2-not-october-31/) (2026-10-12)
